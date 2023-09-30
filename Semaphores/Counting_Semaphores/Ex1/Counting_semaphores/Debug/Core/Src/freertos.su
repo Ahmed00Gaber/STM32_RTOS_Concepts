@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:94:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:146:6:Task_one	24	static
+../Core/Src/freertos.c:167:6:Task_Two	24	static
+../Core/Src/freertos.c:188:6:Task_Three	24	static
